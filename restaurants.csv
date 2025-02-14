@@ -1,0 +1,151 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Bukhara,Delhi,9 AM - 9 PM
+2,Karavalli Branch 5,Bangalore,9 AM - 10 PM
+3,Dum Pukht Branch 5,Mumbai,10 AM - 11 PM
+4,Indian Accent,Delhi,10 AM - 12 PM
+5,Gaggan,Mumbai,10 AM - 11 PM
+6,Punjab Grill,Chandigarh,8 AM - 10 PM
+7,Peshawri,Kolkata,7 AM - 9 PM
+8,The Table Branch 4,Mumbai,7 AM - 10 PM
+9,Trishna,Mumbai,9 AM - 9 PM
+10,Malaka Spice,Pune,10 AM - 9 PM
+11,Oh! Calcutta,Kolkata,11 AM - 10 PM
+12,Khyber,Mumbai,11 AM - 10 PM
+13,Mavalli Tiffin Rooms,Bangalore,9 AM - 12 PM
+14,Saravana Bhavan,Chennai,11 AM - 11 PM
+15,SodaBottleOpenerWala,Hyderabad,7 AM - 10 PM
+16,Britannia & Co.,Mumbai,8 AM - 11 PM
+17,The Bombay Canteen,Mumbai,8 AM - 11 PM
+18,Farzi Café,Delhi,8 AM - 11 PM
+19,Paradise,Hyderabad,9 AM - 9 PM
+20,Peter Cat,Kolkata,10 AM - 9 PM
+21,Flurys,Kolkata,10 AM - 10 PM
+22,Comorin,Gurgaon,10 AM - 11 PM
+23,Jamavar,Bangalore,9 AM - 10 PM
+24,Dakshin,Chennai,7 AM - 10 PM
+25,The Black Pearl,Bangalore,9 AM - 11 PM
+26,Nagarjuna Branch 4,Bangalore,10 AM - 9 PM
+27,Pinch of Spice,Agra,9 AM - 9 PM
+28,Peshawri,Delhi,9 AM - 10 PM
+29,Avartana,Chennai,10 AM - 10 PM
+30,Le Cirque,Delhi,8 AM - 9 PM
+31,Shree Thaker Bhojanalay Branch 1,Mumbai,7 AM - 12 PM
+32,Kesar Da Dhaba,Amritsar,8 AM - 12 PM
+33,Annalakshmi,Chennai,7 AM - 12 PM
+34,Gajalee,Mumbai,8 AM - 11 PM
+35,Moti Mahal,Delhi,11 AM - 9 PM
+36,Barbeque Nation,Hyderabad,9 AM - 10 PM
+37,Mainland China,Kolkata,10 AM - 11 PM
+38,Spice Route,Delhi,8 AM - 11 PM
+39,Indigo Branch 2,Mumbai,9 AM - 11 PM
+40,Tunday Kababi,Lucknow,8 AM - 11 PM
+41,The Flying Elephant,Chennai,8 AM - 10 PM
+42,Big Chill Branch 1,Delhi,9 AM - 9 PM
+43,Mehfil,Hyderabad,7 AM - 12 PM
+44,Cafe Madras,Mumbai,8 AM - 12 PM
+45,Sigree Global Grill,Pune,11 AM - 9 PM
+46,Shiv Sagar,Mumbai,11 AM - 9 PM
+47,Rajdhani Thali Branch 3,Jaipur,9 AM - 11 PM
+48,Curry Leaves,Kochi,7 AM - 11 PM
+49,Copper Chimney Branch 1,Mumbai,11 AM - 12 PM
+50,Kobe Sizzlers,Bangalore,7 AM - 9 PM
+51,The Fatty Bao,Delhi,8 AM - 11 PM
+52,Bukhara Branch 1,Delhi,11 AM - 12 PM
+53,Karavalli,Bangalore,10 AM - 10 PM
+54,Dum Pukht,Mumbai,8 AM - 9 PM
+55,Indian Accent,Delhi,11 AM - 11 PM
+56,Gaggan,Mumbai,10 AM - 12 PM
+57,Punjab Grill,Chandigarh,7 AM - 11 PM
+58,Peshawri Branch 2,Kolkata,11 AM - 9 PM
+59,The Table,Mumbai,9 AM - 12 PM
+60,Trishna,Mumbai,8 AM - 11 PM
+61,Malaka Spice,Pune,8 AM - 10 PM
+62,Oh! Calcutta,Kolkata,10 AM - 10 PM
+63,Khyber,Mumbai,7 AM - 9 PM
+64,Mavalli Tiffin Rooms,Bangalore,9 AM - 10 PM
+65,Saravana Bhavan,Chennai,9 AM - 11 PM
+66,SodaBottleOpenerWala,Hyderabad,9 AM - 12 PM
+67,Britannia & Co.,Mumbai,11 AM - 12 PM
+68,The Bombay Canteen,Mumbai,7 AM - 12 PM
+69,Farzi Café,Delhi,7 AM - 9 PM
+70,Paradise,Hyderabad,10 AM - 9 PM
+71,Peter Cat,Kolkata,8 AM - 9 PM
+72,Flurys,Kolkata,11 AM - 10 PM
+73,Comorin,Gurgaon,9 AM - 9 PM
+74,Jamavar,Bangalore,11 AM - 12 PM
+75,Dakshin,Chennai,11 AM - 11 PM
+76,The Black Pearl Branch 5,Bangalore,10 AM - 12 PM
+77,Nagarjuna Branch 5,Bangalore,11 AM - 11 PM
+78,Pinch of Spice,Agra,11 AM - 10 PM
+79,Peshawri Branch 2,Delhi,7 AM - 9 PM
+80,Avartana,Chennai,10 AM - 11 PM
+81,Le Cirque,Delhi,8 AM - 10 PM
+82,Shree Thaker Bhojanalay,Mumbai,9 AM - 9 PM
+83,Kesar Da Dhaba,Amritsar,8 AM - 10 PM
+84,Annalakshmi Branch 2,Chennai,10 AM - 9 PM
+85,Gajalee Branch 4,Mumbai,7 AM - 11 PM
+86,Moti Mahal,Delhi,8 AM - 9 PM
+87,Barbeque Nation,Hyderabad,9 AM - 11 PM
+88,Mainland China,Kolkata,9 AM - 10 PM
+89,Spice Route,Delhi,10 AM - 10 PM
+90,Indigo Branch 5,Mumbai,7 AM - 10 PM
+91,Tunday Kababi Branch 1,Lucknow,8 AM - 12 PM
+92,The Flying Elephant,Chennai,9 AM - 9 PM
+93,Big Chill Branch 4,Delhi,11 AM - 9 PM
+94,Mehfil,Hyderabad,8 AM - 11 PM
+95,Cafe Madras,Mumbai,11 AM - 9 PM
+96,Sigree Global Grill Branch 1,Pune,11 AM - 9 PM
+97,Shiv Sagar Branch 4,Mumbai,8 AM - 11 PM
+98,Rajdhani Thali,Jaipur,10 AM - 9 PM
+99,Curry Leaves,Kochi,8 AM - 11 PM
+100,Copper Chimney,Mumbai,10 AM - 9 PM
+101,Kobe Sizzlers Branch 5,Bangalore,7 AM - 12 PM
+102,The Fatty Bao,Delhi,8 AM - 9 PM
+103,Bukhara,Delhi,10 AM - 11 PM
+104,Karavalli,Bangalore,10 AM - 10 PM
+105,Dum Pukht Branch 1,Mumbai,9 AM - 9 PM
+106,Indian Accent,Delhi,8 AM - 11 PM
+107,Gaggan,Mumbai,11 AM - 10 PM
+108,Punjab Grill Branch 2,Chandigarh,8 AM - 11 PM
+109,Peshawri,Kolkata,8 AM - 12 PM
+110,The Table,Mumbai,11 AM - 9 PM
+111,Trishna Branch 3,Mumbai,9 AM - 9 PM
+112,Malaka Spice,Pune,11 AM - 12 PM
+113,Oh! Calcutta,Kolkata,7 AM - 9 PM
+114,Khyber,Mumbai,7 AM - 10 PM
+115,Mavalli Tiffin Rooms,Bangalore,7 AM - 12 PM
+116,Saravana Bhavan Branch 4,Chennai,10 AM - 10 PM
+117,SodaBottleOpenerWala,Hyderabad,10 AM - 11 PM
+118,Britannia & Co.,Mumbai,11 AM - 10 PM
+119,The Bombay Canteen,Mumbai,10 AM - 12 PM
+120,Farzi Café Branch 1,Delhi,11 AM - 9 PM
+121,Paradise Branch 2,Hyderabad,10 AM - 10 PM
+122,Peter Cat Branch 2,Kolkata,8 AM - 11 PM
+123,Flurys,Kolkata,9 AM - 11 PM
+124,Comorin,Gurgaon,9 AM - 12 PM
+125,Jamavar Branch 4,Bangalore,8 AM - 9 PM
+126,Dakshin Branch 3,Chennai,7 AM - 12 PM
+127,The Black Pearl,Bangalore,8 AM - 10 PM
+128,Nagarjuna Branch 4,Bangalore,11 AM - 9 PM
+129,Pinch of Spice,Agra,7 AM - 12 PM
+130,Peshawri Branch 2,Delhi,9 AM - 10 PM
+131,Avartana,Chennai,7 AM - 9 PM
+132,Le Cirque,Delhi,7 AM - 9 PM
+133,Shree Thaker Bhojanalay Branch 2,Mumbai,9 AM - 11 PM
+134,Kesar Da Dhaba Branch 3,Amritsar,9 AM - 9 PM
+135,Annalakshmi,Chennai,10 AM - 10 PM
+136,Gajalee Branch 3,Mumbai,11 AM - 12 PM
+137,Moti Mahal Branch 3,Delhi,7 AM - 9 PM
+138,Barbeque Nation,Hyderabad,7 AM - 12 PM
+139,Mainland China,Kolkata,7 AM - 11 PM
+140,Spice Route Branch 4,Delhi,11 AM - 11 PM
+141,Indigo Branch 5,Mumbai,9 AM - 11 PM
+142,Tunday Kababi,Lucknow,11 AM - 11 PM
+143,The Flying Elephant Branch 1,Chennai,9 AM - 10 PM
+144,Big Chill Branch 4,Delhi,11 AM - 10 PM
+145,Mehfil,Hyderabad,7 AM - 10 PM
+146,Cafe Madras,Mumbai,9 AM - 12 PM
+147,Sigree Global Grill,Pune,7 AM - 9 PM
+148,Shiv Sagar,Mumbai,7 AM - 11 PM
+149,Rajdhani Thali,Jaipur,8 AM - 11 PM
+150,Curry Leaves,Kochi,10 AM - 12 PM
