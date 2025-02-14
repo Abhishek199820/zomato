@@ -22,11 +22,11 @@ This project focuses on analyzing a food delivery dataset to extract meaningful 
 - Used for analyzing **popular time slots, order values, and customer preferences**.  
 
 ### **4️⃣ Riders**  
-- Contains `rider_id`, `rider_name`, and `sign_up_date`.  
+- Contains `riders_id`, `rider_name`, and `sign_up_date`.  
 - Used for evaluating **rider performance and delivery efficiency**.  
 
 ### **5️⃣ Deliveries**  
-- Stores `delivery_id`, `order_id`, `delivery_status`, `delivery_time`, and `rider_id`.  
+- Stores `delivery_id`, `order_id`, `delivery_status`, `delivery_time`, and `riders_id`.  
 - Used to **measure delivery time, efficiency, and cancellation rates**.  
 
 ---
