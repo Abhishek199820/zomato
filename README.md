@@ -78,5 +78,5 @@ This project focuses on analyzing a food delivery dataset to extract meaningful 
 This project provides **actionable insights** into food ordering trends, restaurant performance, and delivery efficiency. By leveraging **SQL-based analytics**, it helps **optimize business strategies, improve customer experience, and enhance operational efficiency** for food delivery services in India. 🚀
 
 
-## ERD
-https://github.com/Abhishek199820/zomato/blob/main/Zomato-DB-ERD.png
+## DB-ERD
+![](https://github.com/Abhishek199820/zomato/blob/main/Zomato-DB-ERD.png)
