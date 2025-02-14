@@ -1,2 +1,1 @@
-# zomato
-Exploratory Data Analysis
+# ZOMATO SQL PROJECT
