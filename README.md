@@ -1,5 +1,7 @@
 # ZOMATO SQL PROJECT
 
+![](https://github.com/Abhishek199820/zomato/blob/main/ZOMATO.png)
+
 ## **Project Overview: Food Delivery Data Analytics**  
 
 ### **📌 Objective:**  
